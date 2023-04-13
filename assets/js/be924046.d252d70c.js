@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklawvot_doc=self.webpackChunklawvot_doc||[]).push([[1081],{3819:o=>{o.exports=JSON.parse('{"permalink":"/lawvotDoc/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

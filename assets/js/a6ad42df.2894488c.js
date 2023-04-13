@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklawvot_doc=self.webpackChunklawvot_doc||[]).push([[2137],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

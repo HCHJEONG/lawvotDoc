@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklawvot_doc=self.webpackChunklawvot_doc||[]).push([[9335],{1261:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/lawvotDoc/blog/tags/hello","allTagsPath":"/lawvotDoc/blog/tags","count":2}')}}]);
